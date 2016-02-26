@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Project
 
-The purpose of this project is collect, work with, and clean a data set. 
+The purpose of this project is to collect, work with, and clean a data set. 
 
 ### This repo containst the following files:
 
