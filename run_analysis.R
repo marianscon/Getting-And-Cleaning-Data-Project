@@ -84,4 +84,4 @@ meanAndSd <- subset(meanAndSd, select=-c(activityid))
 tidyDataSet <- ddply(meanAndSd, c("subject","activity"), numcolwise(mean)) 
 
 # Export the tidyData set 
-write.table(tidyDataSet, 'TidyData/tidyData.txt',sep='\t')
+write.table(tidyDataSet, 'TidyData/tidyData.txt',row.name = False, sep='\t')
