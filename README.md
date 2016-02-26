@@ -1,4 +1,8 @@
-This repo containst the following files:
+#Getting and Cleaning Data Project
+
+The purpose of this project is collect, work with, and clean a data set. 
+
+## This repo containst the following files:
 
 * readme.md - this file!
 
