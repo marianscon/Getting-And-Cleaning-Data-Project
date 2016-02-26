@@ -30,7 +30,7 @@ into two sets, where 70% of the volunteers was selected for generating the train
 ## Resulting tidy data set
 
 run_analysis.R:
-* follows the steps described on README.md to prepare a tidy data set 
+* follows the transformations described on README.md to prepare a tidy data set 
 * saves it to a file called: TidyData/tidyData.txt on your working directory, and
 * contains 86 computed mean and standard deviation numeric variables and the subject 
 and activity character variables
